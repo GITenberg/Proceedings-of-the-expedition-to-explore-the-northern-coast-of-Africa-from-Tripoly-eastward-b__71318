@@ -1,0 +1,31 @@
+_repo: Proceedings-of-the-expedition-to-explore-the-northern-coast-of-Africa-from-Tripoly-eastward-b__71318
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Beechey, Frederick William
+    gutenberg_agent_id: '56173'
+    url: http://www.gutenberg.org/2009/agents/56173
+  - agent_name: Beechey, Henry William
+    gutenberg_agent_id: '56174'
+    url: http://www.gutenberg.org/2009/agents/56174
+description: ''
+gutenberg_issued: '2023-08-02'
+identifiers:
+  gutenberg: '71318'
+language: en
+pgterms:marc904: https://archive.org/details/proceedingsexpe00beec
+pgterms:marc905: 20230718231119beechey
+pgterms:marc906: '1828'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJohn Murray, $c1828.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Proceedings of the expedition to explore the northern coast of Africa, from
+  Tripoly eastward : $b in MDCCCXXI. and MDCCCXXII., comprehending an account of the
+  Greater Syrtis and Cyrenaica; and of the ancient cities composing the pentapolis'
+url: http://www.gutenberg.org/ebooks/71318
