@@ -1,5 +1,8 @@
 _repo: Proceedings-of-the-expedition-to-explore-the-northern-coast-of-Africa-from-Tripoly-eastward-b__71318
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71318-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Beechey, Frederick William
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56174'
     url: http://www.gutenberg.org/2009/agents/56174
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71318#Proceedings-of-the-expedition-to-explore-the-northern-coast-of-Africa-from-Tripoly-eastward-b_
 gutenberg_issued: '2023-08-02'
 identifiers:
   gutenberg: '71318'
